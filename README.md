@@ -1,1 +1,1 @@
-# multiple-regression-example
+# Multiple-Regression-Example
